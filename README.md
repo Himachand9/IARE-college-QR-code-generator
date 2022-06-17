@@ -1,0 +1,1 @@
+# IARE-college-QR-code-generator
